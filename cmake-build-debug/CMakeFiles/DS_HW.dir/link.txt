@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/DS_HW.dir/main.cpp.o  -o DS_HW 

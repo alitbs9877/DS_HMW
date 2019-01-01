@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alitbs/Documents/DS_HW/BineryNode.h
+
+/home/alitbs/Documents/DS_HW/BineryTree.cpp
+iostream
+-
+vector
+-
+stdlib.h
+-
+time.h
+-
+BineryTree.h
+/home/alitbs/Documents/DS_HW/BineryTree.h
+vector
+-
+
+/home/alitbs/Documents/DS_HW/BineryTree.h
+BineryNode.h
+/home/alitbs/Documents/DS_HW/BineryNode.h
+vector
+-
+
+/home/alitbs/Documents/DS_HW/main.cpp
+iostream
+-
+vector
+-
+stdlib.h
+-
+time.h
+-
+BineryTree.h
+/home/alitbs/Documents/DS_HW/BineryTree.h
+BineryTree.cpp
+/home/alitbs/Documents/DS_HW/BineryTree.cpp
+BineryNode.h
+/home/alitbs/Documents/DS_HW/BineryNode.h
+
